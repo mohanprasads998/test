@@ -219,6 +219,7 @@ print("R-squared (R2): ", r2)
 
 PROGRAM 5
 #POLYNOMIAL  REGRESSION
+
 import matplotlib.pyplot as plt
 x=[1,2,3,4,5,6,7,8,9,10]
 y=[2,4,7,8,7,10,9,12,11,14]
