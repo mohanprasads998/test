@@ -18,6 +18,9 @@ print(data.iloc[5])
 
 print(data.loc[data["species"]=="setosa"])
 
+max_data=data["sepal_length"].max()
+print("maximum:",max_data)
+
 program 2
 import matplotlib.pyplot as plt
 import seaborn as sns
