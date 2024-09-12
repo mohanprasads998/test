@@ -199,7 +199,6 @@ def decimal_to_hexadecimal(decimal):
         decimal //= 16
     return hexadecimal
 
-# Example usage
 decimal_number = 2000
 hexadecimal_number = decimal_to_hexadecimal(decimal_number)
 print(hexadecimal_number)
